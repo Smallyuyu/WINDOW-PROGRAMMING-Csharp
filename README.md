@@ -1,6 +1,6 @@
 視窗程式設計上課複習內容
 使用程式:C#
-
+```Csharp
 namespace shop
 {
     class Program
@@ -17,3 +17,4 @@ namespace shop
         }
     }
 }
+```
