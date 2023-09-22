@@ -1,0 +1,6 @@
+## 輸入輸出
+```Csharp
+  int a = int.Parse(Console.ReadLine());
+  Console.Write("");
+  Console.WriteLine("");
+```
