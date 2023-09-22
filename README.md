@@ -9,9 +9,7 @@ namespace shop
     {
         struct goods
         {
-            public string name;
-            public int price;
-            public int nums;
+            //XXX
         }
         static void Main(string[] args)
         {
