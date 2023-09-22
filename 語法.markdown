@@ -4,3 +4,40 @@
   Console.Write("");
   Console.WriteLine("");
 ```
+
+## 1D Array
+```Csharp
+  // int[] arr = {1,2,3};
+  int[] arr = new int[]{1,2,3};
+  string[] name = new string[]{"aa","bb","cc"};
+  Array.Sort(arr);
+  Array.Sort(arr,name);
+
+  // Reverse
+  Array.Reverse(arr);
+
+  // Find Element in array
+  Array.IndexOf(arr,2); // return 1 ,the index of element
+
+  // Resize array
+  Array.Resize(arr,5);
+```
+
+## 2D Array
+```Csharp
+  // int[,] arr = {{1,2,3},{4,5,6},{7,8,9}};
+  // int[,] arr = new int[3,4];
+  int[,] arr = new int[,]{{1,2,3},{4,5,6},{7,8,9}};
+
+  // 取得第n維度的長度
+  int[n] arr = new int[3,4];
+  int l1 = arr.GetLength(0); // return 3
+  int l2 = arr.GetLength(1); // return 4
+```
+
+## Random
+```Csharp
+  Random ran = new Random();
+  int ranNum;
+  ranNum = ran.Next(10,51);
+```
