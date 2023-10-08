@@ -1,0 +1,15 @@
+C:\Users\mugen\OneDrive\桌面\Wtmp\H24121133_practice_2_1\H24121133_practice_2_1\obj\Debug\net6.0\H24121133_practice_2_1.csproj.AssemblyReference.cache
+C:\Users\mugen\OneDrive\桌面\Wtmp\H24121133_practice_2_1\H24121133_practice_2_1\obj\Debug\net6.0\H24121133_practice_2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mugen\OneDrive\桌面\Wtmp\H24121133_practice_2_1\H24121133_practice_2_1\obj\Debug\net6.0\H24121133_practice_2_1.AssemblyInfoInputs.cache
+C:\Users\mugen\OneDrive\桌面\Wtmp\H24121133_practice_2_1\H24121133_practice_2_1\obj\Debug\net6.0\H24121133_practice_2_1.AssemblyInfo.cs
+C:\Users\mugen\OneDrive\桌面\Wtmp\H24121133_practice_2_1\H24121133_practice_2_1\obj\Debug\net6.0\H24121133_practice_2_1.csproj.CoreCompileInputs.cache
+C:\Users\mugen\OneDrive\桌面\Wtmp\H24121133_practice_2_1\H24121133_practice_2_1\bin\Debug\net6.0\H24121133_practice_2_1.exe
+C:\Users\mugen\OneDrive\桌面\Wtmp\H24121133_practice_2_1\H24121133_practice_2_1\bin\Debug\net6.0\H24121133_practice_2_1.deps.json
+C:\Users\mugen\OneDrive\桌面\Wtmp\H24121133_practice_2_1\H24121133_practice_2_1\bin\Debug\net6.0\H24121133_practice_2_1.runtimeconfig.json
+C:\Users\mugen\OneDrive\桌面\Wtmp\H24121133_practice_2_1\H24121133_practice_2_1\bin\Debug\net6.0\H24121133_practice_2_1.dll
+C:\Users\mugen\OneDrive\桌面\Wtmp\H24121133_practice_2_1\H24121133_practice_2_1\bin\Debug\net6.0\H24121133_practice_2_1.pdb
+C:\Users\mugen\OneDrive\桌面\Wtmp\H24121133_practice_2_1\H24121133_practice_2_1\obj\Debug\net6.0\H24121133_practice_2_1.dll
+C:\Users\mugen\OneDrive\桌面\Wtmp\H24121133_practice_2_1\H24121133_practice_2_1\obj\Debug\net6.0\refint\H24121133_practice_2_1.dll
+C:\Users\mugen\OneDrive\桌面\Wtmp\H24121133_practice_2_1\H24121133_practice_2_1\obj\Debug\net6.0\H24121133_practice_2_1.pdb
+C:\Users\mugen\OneDrive\桌面\Wtmp\H24121133_practice_2_1\H24121133_practice_2_1\obj\Debug\net6.0\H24121133_practice_2_1.genruntimeconfig.cache
+C:\Users\mugen\OneDrive\桌面\Wtmp\H24121133_practice_2_1\H24121133_practice_2_1\obj\Debug\net6.0\ref\H24121133_practice_2_1.dll
